@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.TransactionController.CreateTransaction(Application.DTOs.TransactionDto)">
+            <summary>
+            Creates a new transaction and saves it in the database.
+            </summary>
+            <param name="dto">Transaction data containing description, date, and value.</param>
+            <returns>Returns the created transaction.</returns>
+            <response code="201">Transaction successfully created.</response>
+            <response code="400">Invalid transaction data provided.</response>
+        </member>
+        <member name="M:WebApi.Controllers.TransactionController.GetTransactionConverted(System.Guid,System.String)">
+            <summary>
+            Converts a transaction value to the specified target currency.
+            </summary>
+            <param name="id">Transaction ID to be converted.</param>
+            <param name="currency">Target currency code (e.g. USD, EUR, BRL).</param>
+            <returns>Returns the converted transaction with exchange rate details.</returns>
+            <response code="200">Conversion successful.</response>
+            <response code="400">Invalid request or conversion failed.</response>
+            <response code="404">Transaction not found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.TransactionController.GetAllTransactions(System.Int32,System.Int32)">
+            <summary>
+            Retrieves all registered transactions.
+            </summary>
+            <returns>List of all transactions.</returns>
+            <response code="200">Returns the list of transactions.</response>
+            <response code="404">No transactions found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.TransactionController.DeleteTransaction(System.Guid)">
+            <summary>
+            Delete a transaction by its ID.
+            </summary>
+            <param name="id">Transaction ID (Guid)</param>
+            <returns>200 OK if deleted successfully, 404 if not found.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  webapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - ConnectionStrings__DefaultConnection=Data Source=/app/Data/purchases.db
+    volumes:
+      - ./Data:/app/Data

@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\application\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\application\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\domain\\obj\\debug\\net9.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\domain\\obj\\debug\\net9.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|c:\\users\\duzan\\source\\repos\\wexpurchasetransaction\\src\\infrastructure\\obj\\debug\\net9.0\\infrastructure.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4AD6E-D51E-46C3-B5F3-BB68264D632C}|WexPurchaseTransaction.csproj|solutionrelative:src\\infrastructure\\obj\\debug\\net9.0\\infrastructure.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\obj\\Debug\\net8.0\\WexPurchaseTransaction.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\WexPurchaseTransaction.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T18:13:52.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:12:29.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\WebApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\WebApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:56:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Application\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Application\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:54:47.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:55:21.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:00:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:54:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:53:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:56:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Domain\\obj\\Debug\\net9.0\\Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\obj\\Debug\\net9.0\\Domain.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Domain\\obj\\Debug\\net9.0\\Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "src\\Domain\\obj\\Debug\\net9.0\\Domain.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:08:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Infrastructure.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Infrastructure\\obj\\Debug\\net9.0\\Infrastructure.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\obj\\Debug\\net9.0\\Infrastructure.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\src\\Infrastructure\\obj\\Debug\\net9.0\\Infrastructure.AssemblyInfo.cs",
+              "RelativeToolTip": "src\\Infrastructure\\obj\\Debug\\net9.0\\Infrastructure.AssemblyInfo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:08:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WexPurchaseTransaction.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\obj\\Debug\\net8.0\\WexPurchaseTransaction.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\WexPurchaseTransaction.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\duzan\\source\\repos\\WexPurchaseTransaction\\obj\\Debug\\net8.0\\WexPurchaseTransaction.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\WexPurchaseTransaction.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:07:55.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
