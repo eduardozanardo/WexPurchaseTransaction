@@ -46,7 +46,7 @@ A .NET 9 API for managing purchase transactions, including currency conversion u
 
 ### Get Transaction Converted to a Currency
 
-**GET** `/api/transaction/{id}/convert?currency=EUR`
+**GET** `/api/transaction/{id}/convert?currency=Canada-Dollar`
 
 ### Delete a Transaction
 
